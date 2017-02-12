@@ -1,5 +1,6 @@
 # geodetic-haversine-distance
 
+[![Build Status](https://travis-ci.org/dbrockman/geodetic-haversine-distance.svg?branch=master)](https://travis-ci.org/dbrockman/geodetic-haversine-distance)
 [![Greenkeeper badge](https://badges.greenkeeper.io/dbrockman/geodetic-haversine-distance.svg)](https://greenkeeper.io/)
 
 This function calculates the distance in meters between two latitude/longitude coordinates.
