@@ -1,6 +1,6 @@
 {
   "name": "geodetic-haversine-distance",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Distance between two latitude/longitude coordinates taking latitude into account",
   "main": "index.js",
   "files": [
