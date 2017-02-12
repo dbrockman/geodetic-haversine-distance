@@ -1,3 +1,5 @@
+'use strict';
+
 const haversineDistance = require('..');
 
 describe('with two positions in Sweden', () => {

@@ -1,3 +1,5 @@
+'use strict';
+
 const earthRadiusAtGeodeticLatitude = require('earth-radius-at-geodetic-latitude');
 
 const toRadians = degrees => degrees * (Math.PI / 180);
