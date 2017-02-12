@@ -1,5 +1,7 @@
 # geodetic-haversine-distance
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dbrockman/geodetic-haversine-distance.svg)](https://greenkeeper.io/)
+
 This function calculates the distance in meters between two latitude/longitude coordinates.
 Instead of using a mean radius of Earth, the radius is estimated using the `latitude` of the first position.
 
